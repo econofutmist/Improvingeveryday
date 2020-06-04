@@ -15,3 +15,4 @@ zero of any numeric type: 0, 0.0, 0j, Decimal(0), Fraction(0, 1)
 empty sequences and collections: '', (), [], {}, set(), range(0)
 
 Operations and built-in functions that have a Boolean result always return 0 or False for false and 1 or True for true, unless otherwise stated. (Important exception: the Boolean operations or and and always return one of their operands.)
+5. 加减乘除后的结果为float
